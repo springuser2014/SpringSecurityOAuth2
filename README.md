@@ -1,6 +1,8 @@
 SpringSecurityOAuth2
 ====================
 
+http://www.beingjavaguys.com/2014/10/spring-security-oauth2-integration.html
+
 Securing Restful Web Services with Spring Security and OAuth2 
 <br/><br/><br/>
 The flow of application will go something like this:<br/><br/>
